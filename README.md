@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Vintage Typography -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=Kavya%20Bhand&fontSize=70&fontColor=d4af37&animation=twinkling&fontAlignY=38&desc=Rise+.+%20Repeat+.+%20Reign&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=Kiddy%20Bhand&fontSize=70&fontColor=d4af37&animation=twinkling&fontAlignY=38&desc=Rise+.+%20Repeat+.+%20Reign&descAlignY=55&descSize=20"/>
 
 <!-- Vintage Ornamental Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
