@@ -31,8 +31,7 @@
 name: "Kavya"
 located_in: "Pune, Maharashtra"
 current_focus: 
-  - Full-Stack Development
-  - Machine Learning
+  - Full-Stack Brainrot
   - Data Structures & Algorithms
 education: "B.Tech Computer Engineering"
 hobbies:
